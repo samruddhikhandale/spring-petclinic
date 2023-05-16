@@ -20,6 +20,10 @@
 	},
 	"customizations": {
 		"vscode": {
+			"settings": {
+				"java.import.gradle.enabled": false,
+				"java.server.launchMode": "Standard"
+			},
 			"extensions": [
 				"vscjava.vscode-java-pack",
 				"redhat.vscode-xml",
